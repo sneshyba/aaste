@@ -1,2 +1,3 @@
 # aaste
-Atom-atom spherical tensor expansion
+Atom-atom spherical tensor expansion, in python
+
